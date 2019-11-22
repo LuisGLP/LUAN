@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MARCADOR_4" size="50.000000 28.480000" />
+    <ImageTarget name="MARCADOR_3" size="50.000000 29.207119" />
+    <ImageTarget name="MARCADOR_2" size="50.000000 28.320000" />
+    <ImageTarget name="MARCADOR_1" size="50.000000 28.370371" />
+  </Tracking>
+</QCARConfig>

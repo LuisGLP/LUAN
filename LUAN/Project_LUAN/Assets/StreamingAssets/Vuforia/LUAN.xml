@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Casa" size="500.000000 456.521729" />
+    <ImageTarget name="Pizarron" size="500.000000 348.726105" />
+    <ImageTarget name="Lapiz" size="500.000000 301.075256" />
+    <ImageTarget name="Flor" size="500.000000 668.508301" />
+    <ImageTarget name="Gusano" size="500.000000 375.444855" />
+    <ImageTarget name="PuertaAzul" size="500.000000 616.279053" />
+    <ImageTarget name="Puerta" size="500.000000 773.364502" />
+    <ImageTarget name="Pantalla" size="500.000000 458.990540" />
+    <ImageTarget name="Uva" size="500.000000 601.190491" />
+    <ImageTarget name="Sandia" size="500.000000 473.684204" />
+    <ImageTarget name="Cereza" size="500.000000 580.827087" />
+    <ImageTarget name="Arbol" size="500.000000 580.555542" />
+  </Tracking>
+</QCARConfig>
